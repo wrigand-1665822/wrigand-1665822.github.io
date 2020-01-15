@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Geaux Tigers</title>
+	</head>
+	<body>
+		<h1>Joe Burreaux</h1>
+		<picture>
+			<img src="joeburrow.jpg" "width=1200 height=1320">
+		<h2>"He's not even in my f*ckin' league"</h2>
+		<iframe width="560" height="315" 
+		src="<iframe width="560" height="315" src="https://www.youtube.com/embed/zR2dwpgbUPI" 
+		frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
+		gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<channel>
+			<title>NCAAFootball News</title>
+			<link>www.nytimes.com</link>
+			<description>NCAAFootball News</description>
+			<item>
+				<title>College Football</title>
+				<link>https://www.nytimes.com/section/sports/ncaafootball</link>
+				<description>News on NCAA Football over the last few days</description>
+			</item>
+		</channel>
+</html>
